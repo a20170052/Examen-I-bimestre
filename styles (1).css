@@ -1,0 +1,19 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  color: darkblue;
+  font-family: arial;
+  fontsize: 50px;
+}
+body {
+  background-color: lightgreen;
+}
+p {
+  font-family: courier new;
+  font-size: 15px;
+  text-align: justify;
+  color: darkgreen;
+}
+img {
+  width: 320px;
+}
